@@ -1,6 +1,6 @@
 # Travel Website ✈️
 
-A responsive travel website built using HTML, CSS, and JavaScript.
+A responsive travel website built using HTML and CSS.
 
 ## Features
 - Responsive Navigation Bar
@@ -8,15 +8,13 @@ A responsive travel website built using HTML, CSS, and JavaScript.
 - Services Section
 - Gallery Section
 - Modern UI Design
+- Hover Effect
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
-## Screenshots
 
-(Add screenshots here)
 
 ## Author
 Aravind
